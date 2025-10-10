@@ -3,6 +3,8 @@
 Overview
 This project analyzes simulated retail sales data (2022-2025) to evaluate revenue trends, customer behavior, product importance and more. This dataset contains approximately 10000 records. Cleaning and analysis were conducted through PostgreSQL and visualizations were created on tableau public.
 
+Tableau Public: https://public.tableau.com/app/profile/kabita.bhattarai/vizzes
+
 
 Objectives
 The primary objective is to explore and summarize retail data to answer key business questions
